@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/M-Wahidi/crypto-filter/static/css/main.f95f6389.css",
-    "main.js": "/M-Wahidi/crypto-filter/static/js/main.af4cf6f6.js",
-    "index.html": "/M-Wahidi/crypto-filter/index.html",
-    "main.f95f6389.css.map": "/M-Wahidi/crypto-filter/static/css/main.f95f6389.css.map",
-    "main.af4cf6f6.js.map": "/M-Wahidi/crypto-filter/static/js/main.af4cf6f6.js.map"
+    "main.css": "/crypto-filter/static/css/main.f95f6389.css",
+    "main.js": "/crypto-filter/static/js/main.af4cf6f6.js",
+    "index.html": "/crypto-filter/index.html",
+    "main.f95f6389.css.map": "/crypto-filter/static/css/main.f95f6389.css.map",
+    "main.af4cf6f6.js.map": "/crypto-filter/static/js/main.af4cf6f6.js.map"
   },
   "entrypoints": [
     "static/css/main.f95f6389.css",
